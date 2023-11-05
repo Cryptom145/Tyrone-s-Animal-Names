@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tyrone\'s Animal Names</string>
+    <string name="manage_blocked_animals">Manage Blocked Animals</string>
+    <string name="block_animal">Block Animal</string>
+    <string name="animal_details">Animal Details</string>
+    <string name="animal_names_from_a_to_z">Animal Names from A to Z</string>
+</resources>
